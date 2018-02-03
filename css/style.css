@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.city {
+	width: 400px;
+	min-height: 100px;
+	margin: 20px auto;
+	padding: 10px;
+	line-height: 2;
+	border: 1px solid #00f;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#btn {
+	background-color: #0f0;
+	border-radius: 5px;
+	border: none;
+	width: 100px;
+	height: 30px;
+	cursor: pointer;
+	
+}
